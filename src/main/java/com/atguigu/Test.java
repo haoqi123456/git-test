@@ -6,5 +6,6 @@ public class Test {
         System.out.println("你会拿到高薪的");
         System.out.println("你在不久就会拿到offer的");
         System.out.println("hot-fix 你会找到和你相爱的人");
+        System.out.println("你将不久遇到哪个对的人");
     }
 }
