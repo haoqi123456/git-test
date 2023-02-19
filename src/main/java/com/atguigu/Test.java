@@ -8,5 +8,6 @@ public class Test {
         System.out.println("hot-fix 你会找到和你相爱的人");
         System.out.println("你将不久遇到哪个对的人");
         System.out.println("你们将不久就会有你们自己的孩子");
+        System.out.println("你会成功的");
     }
 }
